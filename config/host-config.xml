@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Servers>
+	<Master>
+		<hostname>localhost</hostname>
+		<port>7000</port>
+	</Master>
+	<Master>
+		<hostname>localhost</hostname>
+		<port>8000</port>
+	</Master>
+    <Slave>
+        <hostname>localhost</hostname>
+        <port>7001</port>
+        <mastername>localhost</mastername>
+        <masterport>7000</masterport>
+    </Slave>
+    <Slave>
+        <hostname>localhost</hostname>
+        <port>8001</port>
+        <mastername>localhost</mastername>
+        <masterport>8000</masterport>
+    </Slave>
+</Servers>

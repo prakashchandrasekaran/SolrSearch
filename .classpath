@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/jcl-over-slf4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/solrj-lib/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-analysis-extras-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-cell-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-clustering-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-core-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-dataimporthandler-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-dataimporthandler-extras-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-langid-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-solrj-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/dist/apache-solr-uima-4.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/chandra/CS290C/SOLR/trunk/solr/lib/slf4j-jdk14-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
